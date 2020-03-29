@@ -1,0 +1,28 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+body {
+  background-image: url("coffe.png");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  text-align: center;
+  background-color: black;
+  color: grey;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  font-size: 50px;
+}
