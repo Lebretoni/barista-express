@@ -1,3 +1,4 @@
+//worked on together with house sebastian abby elmer thais jessie
 const li = document.querySelectorAll(".order");
 var trash = document.getElementsByClassName("fa-trash");
 const name = document.querySelector(".userEmail").innerText
